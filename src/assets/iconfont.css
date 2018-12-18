@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 497489 */
+    src: url('//at.alicdn.com/t/font_497489_zxi9nbmuh7s.eot');
+    src: url('//at.alicdn.com/t/font_497489_zxi9nbmuh7s.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_497489_zxi9nbmuh7s.woff') format('woff'),
+    url('//at.alicdn.com/t/font_497489_zxi9nbmuh7s.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_497489_zxi9nbmuh7s.svg#iconfont') format('svg');
+  }
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-tel:before { content: "\e610"}
+.icon-saoyisao:before {content: "\e64f"}
+.icon-tip::before {content: '\e607'}   /*提示*/
+.icon-unify::before { content: "\e619"}/*统一用户管理*/
+.icon-assistant::before {content: "\e614"}  /*店员信息管理*/
+.icon-branch::before {content: "\e63c"}/*分店店长管理*/
+.icon-group::before { content: "\e609"}/*集团用户管理*/
+.icon-org::before {content: "\e66b"}/*组织管理*/
+.icon-right::before {content: "\e612"}/*权限管理*/
+.icon-my::before {content: "\e6c3"}/*我的账号*/
+.icon-investor::before {content: "\e6c8"} /*投资人管理*/
+.icon-external::before {content: "\e613"} /*外部人员管理*/
+.icon-arrow-down::before{content:"\e606"}  /*向下箭头*/
+.icon-close::before{content: "\e62b"}   /* 关闭*/
+.icon-edit::before{content: "\e63e"}  /* 编辑*/
+.icon-dele::before{content: "\e611"}  /* 删除 */
+.icon-add::before{content: "\e636"}  /* 添加 */
+.icon-right-allow::before{content: "\e6b7"}  /* 右箭头 */
+.icon-down-allow::before{content: "\e6b5"}  /* 下箭头 */
